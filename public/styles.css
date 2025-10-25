@@ -1,0 +1,6 @@
+body { font-family: Arial, sans-serif; background: #f4f6fa; text-align: center; padding: 40px; }
+h1 { color: #222; }
+input { width: 70%; padding: 10px; margin-top: 15px; font-size: 16px; border: 2px solid #aaa; border-radius: 8px; }
+button { margin-top: 20px; padding: 10px 20px; font-size: 16px; border: none; border-radius: 8px; background-color: #007bff; color: white; cursor: pointer; }
+button:hover { background-color: #0056b3; }
+#result { margin-top: 30px; font-size: 18px; background: #fff; display: inline-block; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); text-align: left; }
